@@ -97,13 +97,13 @@ https://tv.prectv5.sbs/live/history.m3u8
 https://tv.prectv5.sbs/live/viasatexplore.m3u8
 #EXTINF:-1 tvg-name="BBC Earth" tvg-group="Belgesel",BBC Earth
 https://tv.prectv5.sbs/live/bbc.m3u8
-#EXTINF:-1 tvg-name="TR | beIN Gurmeⓧ FHD" tvg-group="Belgesel",TR | beIN Gurmeⓧ FHD
+#EXTINF:-1 tvg-name="beIN Gurme FHD" tvg-group="Belgesel",beIN Gurme FHD
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432169
 #EXTINF:-1 tvg-name="Bein Iz" tvg-group="Belgesel",Bein Iz
 https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true
-#EXTINF:-1 tvg-name="TR | Discovery Channelⓧ HD" tvg-group="Belgesel",TR | Discovery Channelⓧ HD
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-group="Belgesel",Discovery Channel HD
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432233
-#EXTINF:-1 tvg-name="TR | Fashion Midnightⓧ HD" tvg-group="Belgesel",TR | Fashion Midnightⓧ HD
+#EXTINF:-1 tvg-name="Fashion Midnight HD" tvg-group="Belgesel",Fashion Midnight HD
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432307
 #EXTINF:-1 tvg-name="A Spor" tvg-group="Sports",A Spor
 https://tgn.bozztv.com/dvrfl05/gin-aspor/tracks-v1a1/mono.m3u8
@@ -125,7 +125,7 @@ http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432435
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432436
 #EXTINF:-1 tvg-name="Euro Sport 2" tvg-group="Sports",Euro Sport 2
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/290924.ts
-#EXTINF:-1 tvg-name="TR | S Sport PlusⓧFHD (Maçta aktif)" tvg-group="Sports",TR | S Sport PlusⓧFHD (Maçta aktif)
+#EXTINF:-1 tvg-name="S Sport PlusFHD (Maçta aktif)" tvg-group="Sports",S Sport PlusFHD (Maçta aktif)
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432464
 #EXTINF:-1 tvg-name="beIN SPORTS Haber" tvg-group="Sports",beIN SPORTS Haber
 https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
