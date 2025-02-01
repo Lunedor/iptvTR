@@ -295,27 +295,27 @@ https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-name="TURKHABER" tvg-group="Haber",TURKHABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="Number 1 TV" tvg-group="Various",Number 1 TV
+#EXTINF:-1 tvg-name="Number 1 TV" tvg-group="Müzik",Number 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-#EXTINF:-1 tvg-name="KRAL POP" tvg-group="Various",KRAL POP
+#EXTINF:-1 tvg-name="KRAL POP" tvg-group="Müzik",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:-1 tvg-name="TATLISES TV" tvg-group="Various",TATLISES TV
+#EXTINF:-1 tvg-name="TATLISES TV" tvg-group="Müzik",TATLISES TV
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
 #EXTINF:-1 tvg-name="NR1 FASHION ONE" tvg-group="Eğlence",NR1 FASHION ONE
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 tvg-name="PowerTurk TV" tvg-group="Various",PowerTurk TV
+#EXTINF:-1 tvg-name="PowerTurk TV" tvg-group="Müzik",PowerTurk TV
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
-#EXTINF:-1 tvg-name="Power TV" tvg-group="Various",Power TV
+#EXTINF:-1 tvg-name="Power TV" tvg-group="Müzik",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
-#EXTINF:-1 tvg-name="POWER TURK TAPTAZE" tvg-group="Various",POWER TURK TAPTAZE
+#EXTINF:-1 tvg-name="POWER TURK TAPTAZE" tvg-group="Müzik",POWER TURK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="POWER DANCE" tvg-group="Various",POWER DANCE
+#EXTINF:-1 tvg-name="POWER DANCE" tvg-group="Müzik",POWER DANCE
 https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8
-#EXTINF:-1 tvg-name="POWER LOVE" tvg-group="Various",POWER LOVE
+#EXTINF:-1 tvg-name="POWER LOVE" tvg-group="Müzik",POWER LOVE
 https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
-#EXTINF:-1 tvg-name="POWER TURK AKUSTIK" tvg-group="Various",POWER TURK AKUSTIK
+#EXTINF:-1 tvg-name="POWER TURK AKUSTIK" tvg-group="Müzik",POWER TURK AKUSTIK
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
-#EXTINF:-1 tvg-name="POWER TURK SLOW" tvg-group="Various",POWER TURK SLOW
+#EXTINF:-1 tvg-name="POWER TURK SLOW" tvg-group="Müzik",POWER TURK SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-group="Müzik",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
