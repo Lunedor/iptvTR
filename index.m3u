@@ -199,9 +199,9 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-name="CINE 5" tvg-group="Ulusal",CINE 5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Fashion TV" tvg-group="Ulusal",Fashion TV
+#EXTINF:-1 tvg-name="Fashion TV" tvg-group="Müzik",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Fashion Film" tvg-group="Ulusal",Fashion Film
+#EXTINF:-1 tvg-name="Fashion Film" tvg-group="Müzik",Fashion Film
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="EBA İlkOkul" tvg-group="Eba",EBA İlkOkul
 https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
