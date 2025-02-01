@@ -133,8 +133,6 @@ https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
 https://due.7cbd07151f7a2d82.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ" tvg-group="Spor",beIN SPORTS 1 ғʜᴅ
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
-#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-group="Spor",beIN SPORTS 1
-http://finu.site:8080/live/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/73501.ts
 #EXTINF:-1 tvg-name="TRT Müzik" tvg-group="Müzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Dream Türk" tvg-group="Müzik",Dream Türk
@@ -215,41 +213,41 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-name="Çiftçi TV" tvg-group="Belgesel",Çiftçi TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-#EXTINF:-1 tvg-name="Star TV" tvg-group="Genel",Star TV
+#EXTINF:-1 tvg-name="Star TV" tvg-group="Ulusal",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-name="ATV" tvg-group="Genel",ATV
+#EXTINF:-1 tvg-name="ATV" tvg-group="Ulusal",ATV
 https://c.fulltvizle.com/aytv/index.m3u8
-#EXTINF:-1 tvg-name="Now TV" tvg-group="Genel",Now TV
+#EXTINF:-1 tvg-name="Now TV" tvg-group="Ulusal",Now TV
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
-#EXTINF:-1 tvg-name="Show TV" tvg-group="Genel",Show TV
+#EXTINF:-1 tvg-name="Show TV" tvg-group="Ulusal",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
-#EXTINF:-1 tvg-name="TV 8" tvg-group="Genel",TV 8
+#EXTINF:-1 tvg-name="TV 8" tvg-group="Ulusal",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
-#EXTINF:-1 tvg-name="Kanal D" tvg-group="Genel",Kanal D
+#EXTINF:-1 tvg-name="Kanal D" tvg-group="Ulusal",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:-1 tvg-name="Beyaz TV" tvg-group="Genel",Beyaz TV
+#EXTINF:-1 tvg-name="Beyaz TV" tvg-group="Ulusal",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
-#EXTINF:-1 tvg-name="Teve2" tvg-group="Genel",Teve2
+#EXTINF:-1 tvg-name="Teve2" tvg-group="Ulusal",Teve2
 https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
-#EXTINF:-1 tvg-name="A2" tvg-group="Genel",A2
+#EXTINF:-1 tvg-name="A2" tvg-group="Ulusal",A2
 http://stream.tvcdn.net/eglence/a2.m3u8
-#EXTINF:-1 tvg-name="TV 4" tvg-group="Genel",TV 4
+#EXTINF:-1 tvg-name="TV 4" tvg-group="Ulusal",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-name="CNBC-e" tvg-group="Genel",CNBC-e
+#EXTINF:-1 tvg-name="CNBC-e" tvg-group="Ulusal",CNBC-e
 http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
-#EXTINF:-1 tvg-name="Lalegül TV" tvg-group="Genel",Lalegül TV
+#EXTINF:-1 tvg-name="Lalegül TV" tvg-group="Ulusal",Lalegül TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1 tvg-name="Kanal 7" tvg-group="Genel",Kanal 7
+#EXTINF:-1 tvg-name="Kanal 7" tvg-group="Ulusal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-name="Life TV" tvg-group="Genel",Life TV
+#EXTINF:-1 tvg-name="Life TV" tvg-group="Ulusal",Life TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:-1 tvg-name="Cine1" tvg-group="Genel",Cine1
+#EXTINF:-1 tvg-name="Cine1" tvg-group="Ulusal",Cine1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1 tvg-name="CINE 5" tvg-group="Genel",CINE 5
+#EXTINF:-1 tvg-name="CINE 5" tvg-group="Ulusal",CINE 5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Fashion TV" tvg-group="Genel",Fashion TV
+#EXTINF:-1 tvg-name="Fashion TV" tvg-group="Ulusal",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Fashion Film" tvg-group="Genel",Fashion Film
+#EXTINF:-1 tvg-name="Fashion Film" tvg-group="Ulusal",Fashion Film
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="EBA İlkOkul" tvg-group="Eba",EBA İlkOkul
 https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
