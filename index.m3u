@@ -5,8 +5,6 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8?e=&st=
 https://tgn.bozztv.com/dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-group="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Trt 4K" tvg-group="Ulusal",Trt 4K
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432553
 #EXTINF:-1 tvg-name="TRT Türk" tvg-group="Ulusal",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Avaz" tvg-group="Ulusal",TRT Avaz
@@ -25,8 +23,6 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://tv.prectv5.sbs/live/atv1.m3u8
 #EXTINF:-1 tvg-name="ATV 2" tvg-group="Ulusal",ATV 2
 https://tgn.bozztv.com/dvrfl05/gin-atva2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ATV 2" tvg-group="Ulusal",ATV 2
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140
 #EXTINF:-1 tvg-name="Kanal D" tvg-group="Ulusal",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-name="Fox" tvg-group="Ulusal",Fox
@@ -97,16 +93,16 @@ https://tv.prectv5.sbs/live/history.m3u8
 https://tv.prectv5.sbs/live/viasatexplore.m3u8
 #EXTINF:-1 tvg-name="BBC Earth" tvg-group="Belgesel",BBC Earth
 https://tv.prectv5.sbs/live/bbc.m3u8
+#EXTINF:-1 tvg-name="TR | beIN Gurmeⓧ FHD" tvg-group="Belgesel",TR | beIN Gurmeⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432169
 #EXTINF:-1 tvg-name="Bein Iz" tvg-group="Belgesel",Bein Iz
 https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true
 #EXTINF:-1 tvg-name="TR | Animal Planetⓧ SD" tvg-group="Belgesel",TR | Animal Planetⓧ SD
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432152
-#EXTINF:-1 tvg-name="TR | Discovery Channelⓧ HD" tvg-group="Belgesel",TR | Discovery Channelⓧ HD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432233
-#EXTINF:-1 tvg-name="TR | Discovery IDⓧ FHD" tvg-group="Belgesel",TR | Discovery IDⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432234
-#EXTINF:-1 tvg-name="TR | DocuBoxⓧ FHD" tvg-group="Belgesel",TR | DocuBoxⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432246
+#EXTINF:-1 tvg-name="TR | Fashion Midnightⓧ HD" tvg-group="Belgesel",TR | Fashion Midnightⓧ HD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432307
+#EXTINF:-1 tvg-name="TR | Fashion TVⓧ FHD" tvg-group="Belgesel",TR | Fashion TVⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432308
 #EXTINF:-1 tvg-name="TRT Çocuk" tvg-group="Çizgifilm",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Diyanet Çocuk" tvg-group="Çizgifilm",TRT Diyanet Çocuk
@@ -117,18 +113,16 @@ http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
 https://tgn.bozztv.com/dvrfl05/gin-minikago/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Minika Çocuk" tvg-group="Çizgifilm",Minika Çocuk
 https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TR | Tom ve Jerryⓧ SD" tvg-group="Çizgifilm",TR | Tom ve Jerryⓧ SD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432545
-#EXTINF:-1 tvg-name="BEIN BOX OFFICE 1 ʜᴅ" tvg-group="Sinema",BEIN BOX OFFICE 1 ʜᴅ
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432166
+#EXTINF:-1 tvg-name="TR | Pepee TVⓧ HD" tvg-group="Çizgifilm",TR | Pepee TVⓧ HD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432454
+#EXTINF:-1 tvg-name="Beinbox Office 3" tvg-group="Sinema",Beinbox Office 3
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432168
 #EXTINF:-1 tvg-name="Bein Movies Stars" tvg-group="Sinema",Bein Movies Stars
 https://tv.prectv5.sbs/live/bsstars.m3u8
 #EXTINF:-1 tvg-name="Bein Movies premiere" tvg-group="Sinema",Bein Movies premiere
 https://tv.prectv5.sbs/live/bspremier1.m3u8
 #EXTINF:-1 tvg-name="Bein Movies Turk" tvg-group="Sinema",Bein Movies Turk
 https://tv.prectv5.sbs/live/bsturk.m3u8
-#EXTINF:-1 tvg-name="TR | beIN Series Viceⓧ FHD" tvg-group="Sinema",TR | beIN Series Viceⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432182
 #EXTINF:-1 tvg-name="Rize Türk TV" tvg-group="Sinema",Rize Türk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Moviesmart Türk" tvg-group="Sinema",Moviesmart Türk
@@ -139,10 +133,12 @@ https://tv.prectv5.sbs/live/fx.m3u8
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432405
 #EXTINF:-1 tvg-name="TR | Max Orjinalⓧ FHD" tvg-group="Sinema",TR | Max Orjinalⓧ FHD
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432410
+#EXTINF:-1 tvg-name="TR | Max Vizyonⓧ FHD" tvg-group="Sinema",TR | Max Vizyonⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432416
 #EXTINF:-1 tvg-name="TR | Max Vizyon 2ⓧ FHD" tvg-group="Sinema",TR | Max Vizyon 2ⓧ FHD
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432413
-#EXTINF:-1 tvg-name="TR | Sinema TV 1001ⓧ FHD" tvg-group="Sinema",TR | Sinema TV 1001ⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432476
+#EXTINF:-1 tvg-name="TR | Max Vizyon 3ⓧ FHD" tvg-group="Sinema",TR | Max Vizyon 3ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432414
 #EXTINF:-1 tvg-name="TR | Sinema TV Komedi 2ⓧ FHD" tvg-group="Sinema",TR | Sinema TV Komedi 2ⓧ FHD
 https://tv.arectv11.sbs/live/sinemaaile2.m3u8
 #EXTINF:-1 tvg-name="A Spor" tvg-group="Sports",A Spor
@@ -159,10 +155,10 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-name="FB TV" tvg-group="Sports",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-group="Sports",NBA TV
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432435
 #EXTINF:-1 tvg-name="Euro Sport 2" tvg-group="Sports",Euro Sport 2
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/290924.ts
+#EXTINF:-1 tvg-name="Tivibu Spor" tvg-group="Sports",Tivibu Spor
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432541
 #EXTINF:-1 tvg-name="TR | S Sport PlusⓧFHD (Maçta aktif)" tvg-group="Sports",TR | S Sport PlusⓧFHD (Maçta aktif)
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432464
 #EXTINF:-1 tvg-name="beIN SPORTS Haber" tvg-group="Sports",beIN SPORTS Haber
@@ -177,8 +173,6 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 https://tgn.bozztv.com/trn03/gt-dreamturk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Dream Türk" tvg-group="Müzik",Dream Türk
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/81759.ts
-#EXTINF:-1 tvg-name="Power Tv Hd" tvg-group="Müzik",Power Tv Hd
-http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/7094.ts
 #EXTINF:-1 tvg-name="Power TV" tvg-group="Müzik",Power TV
 https://tgn.bozztv.com/dvrfl05/gin-powerhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Kral Pop" tvg-group="Müzik",Kral Pop
@@ -413,8 +407,6 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-group="Genel",ATV
 https://c.fulltvizle.com/aytv/index.m3u8
-#EXTINF:-1 tvg-name="Now TV" tvg-group="Genel",Now TV
-http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 tvg-name="Show TV" tvg-group="Genel",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-name="TV 8" tvg-group="Genel",TV 8
