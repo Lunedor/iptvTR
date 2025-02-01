@@ -5,6 +5,8 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8?e=&st=
 https://tgn.bozztv.com/dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-group="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="Trt 4K" tvg-group="Ulusal",Trt 4K
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432553
 #EXTINF:-1 tvg-name="TRT Türk" tvg-group="Ulusal",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Avaz" tvg-group="Ulusal",TRT Avaz
@@ -23,6 +25,8 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://tv.prectv5.sbs/live/atv1.m3u8
 #EXTINF:-1 tvg-name="ATV 2" tvg-group="Ulusal",ATV 2
 https://tgn.bozztv.com/dvrfl05/gin-atva2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ATV 2" tvg-group="Ulusal",ATV 2
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140
 #EXTINF:-1 tvg-name="Kanal D" tvg-group="Ulusal",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-name="Fox" tvg-group="Ulusal",Fox
@@ -85,8 +89,6 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-name="TGRT Belgesel" tvg-group="Belgesel",TGRT Belgesel
 https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Nat Geo HD TR" tvg-group="Belgesel",Nat Geo HD TR
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432433
 #EXTINF:-1 tvg-name="Nat Geo Wild" tvg-group="Belgesel",Nat Geo Wild
 https://tv.prectv5.sbs/live/natgeowild.m3u8
 #EXTINF:-1 tvg-name="History Channel" tvg-group="Belgesel",History Channel
@@ -95,12 +97,14 @@ https://tv.prectv5.sbs/live/history.m3u8
 https://tv.prectv5.sbs/live/viasatexplore.m3u8
 #EXTINF:-1 tvg-name="BBC Earth" tvg-group="Belgesel",BBC Earth
 https://tv.prectv5.sbs/live/bbc.m3u8
+#EXTINF:-1 tvg-name="TR | beIN Gurmeⓧ FHD" tvg-group="Belgesel",TR | beIN Gurmeⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432169
 #EXTINF:-1 tvg-name="Bein Iz" tvg-group="Belgesel",Bein Iz
 https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true
-#EXTINF:-1 tvg-name="TR | Da Vinci Learningⓧ HD" tvg-group="Belgesel",TR | Da Vinci Learningⓧ HD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432228
 #EXTINF:-1 tvg-name="TR | Discovery Channelⓧ HD" tvg-group="Belgesel",TR | Discovery Channelⓧ HD
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432233
+#EXTINF:-1 tvg-name="TR | Fashion Midnightⓧ HD" tvg-group="Belgesel",TR | Fashion Midnightⓧ HD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432307
 #EXTINF:-1 tvg-name="A Spor" tvg-group="Sports",A Spor
 https://tgn.bozztv.com/dvrfl05/gin-aspor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TRT Spor" tvg-group="Sports",TRT Spor
@@ -117,6 +121,8 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 http://stream.tvcdn.net/spor/fb-tv.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-group="Sports",NBA TV
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432435
+#EXTINF:-1 tvg-name="NBA TV" tvg-group="Sports",NBA TV
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432436
 #EXTINF:-1 tvg-name="Euro Sport 2" tvg-group="Sports",Euro Sport 2
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/290924.ts
 #EXTINF:-1 tvg-name="TR | S Sport PlusⓧFHD (Maçta aktif)" tvg-group="Sports",TR | S Sport PlusⓧFHD (Maçta aktif)
