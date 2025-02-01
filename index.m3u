@@ -105,33 +105,33 @@ https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432233
 #EXTINF:-1 tvg-name="Fashion Midnight HD" tvg-group="Belgesel",Fashion Midnight HD
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432307
-#EXTINF:-1 tvg-name="A Spor" tvg-group="Sports",A Spor
+#EXTINF:-1 tvg-name="A Spor" tvg-group="Spor",A Spor
 https://tgn.bozztv.com/dvrfl05/gin-aspor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TRT Spor" tvg-group="Sports",TRT Spor
+#EXTINF:-1 tvg-name="TRT Spor" tvg-group="Spor",TRT Spor
 https://tgn.bozztv.com/dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-group="Sports",TRT Spor Yıldız
+#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-group="Spor",TRT Spor Yıldız
 https://tgn.bozztv.com/dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="HT Spor" tvg-group="Sports",HT Spor
+#EXTINF:-1 tvg-name="HT Spor" tvg-group="Spor",HT Spor
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
-#EXTINF:-1 tvg-name="Sports TV" tvg-group="Sports",Sports TV
+#EXTINF:-1 tvg-name="Spor TV" tvg-group="Spor",Spor TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-name="GS TV" tvg-group="Sports",GS TV
+#EXTINF:-1 tvg-name="GS TV" tvg-group="Spor",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:-1 tvg-name="FB TV" tvg-group="Sports",FB TV
+#EXTINF:-1 tvg-name="FB TV" tvg-group="Spor",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-group="Sports",NBA TV
+#EXTINF:-1 tvg-name="NBA TV" tvg-group="Spor",NBA TV
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432435
-#EXTINF:-1 tvg-name="NBA TV" tvg-group="Sports",NBA TV
+#EXTINF:-1 tvg-name="NBA TV" tvg-group="Spor",NBA TV
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432436
-#EXTINF:-1 tvg-name="Euro Sport 2" tvg-group="Sports",Euro Sport 2
+#EXTINF:-1 tvg-name="Euro Sport 2" tvg-group="Spor",Euro Sport 2
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/290924.ts
-#EXTINF:-1 tvg-name="S Sport PlusFHD (Maçta aktif)" tvg-group="Sports",S Sport PlusFHD (Maçta aktif)
+#EXTINF:-1 tvg-name="S Sport PlusFHD (Maçta aktif)" tvg-group="Spor",S Sport PlusFHD (Maçta aktif)
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432464
-#EXTINF:-1 tvg-name="beIN SPORTS Haber" tvg-group="Sports",beIN SPORTS Haber
+#EXTINF:-1 tvg-name="beIN SPORTS Haber" tvg-group="Spor",beIN SPORTS Haber
 https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-group="Sports",beIN SPORTS
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-group="Spor",beIN SPORTS
 https://due.7cbd07151f7a2d82.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ" tvg-group="Sports",beIN SPORTS 1 ғʜᴅ
+#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ" tvg-group="Spor",beIN SPORTS 1 ғʜᴅ
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
 #EXTINF:-1 tvg-name="TRT Müzik" tvg-group="Müzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
@@ -255,13 +255,13 @@ https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
 https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="EBA Lise" tvg-group="Eba",EBA Lise
 https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Sports TV" tvg-group="Sports",Sports TV
+#EXTINF:-1 tvg-name="Spor TV" tvg-group="Spor",Spor TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS Haber" tvg-group="Sports",beIN SPORTS Haber
+#EXTINF:-1 tvg-name="beIN SPORTS Haber" tvg-group="Spor",beIN SPORTS Haber
 https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
-#EXTINF:-1 tvg-name="GS TV" tvg-group="Sports",GS TV
+#EXTINF:-1 tvg-name="GS TV" tvg-group="Spor",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:-1 tvg-name="FB TV" tvg-group="Sports",FB TV
+#EXTINF:-1 tvg-name="FB TV" tvg-group="Spor",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
 #EXTINF:-1 tvg-name="TRT Müzik" tvg-group="Müzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
@@ -351,15 +351,15 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-name="LIFE TV" tvg-group="Ulusal",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-group="Sports",beIN SPORTS HABER
+#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-group="Spor",beIN SPORTS HABER
 https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
-#EXTINF:-1 tvg-name="TV 8.5" tvg-group="Sports",TV 8.5
+#EXTINF:-1 tvg-name="TV 8.5" tvg-group="Spor",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1 tvg-name="FB TV" tvg-group="Sports",FB TV
+#EXTINF:-1 tvg-name="FB TV" tvg-group="Spor",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="GS TV HD" tvg-group="Sports",GS TV HD
+#EXTINF:-1 tvg-name="GS TV HD" tvg-group="Spor",GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
-#EXTINF:-1 tvg-name="TAY TV" tvg-group="Sports",TAY TV
+#EXTINF:-1 tvg-name="TAY TV" tvg-group="Spor",TAY TV
 https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/taytv.m3u8
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-group="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
@@ -425,3 +425,79 @@ https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
 #EXTINF:-1 tvg-name="POWER TURK SLOW" tvg-group="Müzik",POWER TURK SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:-1 tvg-name="#### TURK BELGESEL ####" tvg-group="Belgesel",#### TURK BELGESEL ####
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz-CKjp5zBW1YQNpM2iiTXDc0HG-P5dbf8kxc_F5BEqgT/ts
+#EXTINF:-1 tvg-name="TLC TV HD+" tvg-group="Belgesel",TLC TV HD+
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz5Yftz4bItUR9MURhcPo0XuV87S0ltn5DUHFgb7Yynjc/ts
+#EXTINF:-1 tvg-name="TLC TV" tvg-group="Belgesel",TLC TV
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz5hDacurHaZyXFE6vYR_XaxL4TQcREWL-aO0S7BNa3HE/ts
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-group="Belgesel",Animal Planet HD
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz1axPC9ogdyonnNIXstRdjplVt93gmb-q8YKq2MHYZ4L/ts
+#EXTINF:-1 tvg-name="BBC Earth HD+" tvg-group="Belgesel",BBC Earth HD+
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz6jBRos5SnCH1B0JUlJrjB3EN1TyPq5pn1AFMuUKbLRT/ts
+#EXTINF:-1 tvg-name="BBC Earth HD" tvg-group="Belgesel",BBC Earth HD
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qzxAGPWM1FTssDVIYlKlNxpIeqLGbNJ26Z7UD9IAx7J-U/ts
+#EXTINF:-1 tvg-name="beiN GURME HD+" tvg-group="Belgesel",beiN GURME HD+
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz-nUlCNuvusN-t9zfalQxfGy4YpdL3RgN41dyKfYItCO/ts
+#EXTINF:-1 tvg-name="CİFTCİ TV HD+" tvg-group="Belgesel",CİFTCİ TV HD+
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz0LScP7amhfzp4997Aj5ZysTFX4dKqihhG0tHzfKfwBh/ts
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD+" tvg-group="Belgesel",DISCOVERY CHANNEL HD+
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz9PFNQeZKekKP-PVJjadZEp4mXSOpT79O8Mlu66Kczwj/ts
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-group="Belgesel",DISCOVERY CHANNEL HD
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz59iWQD6FkqYYhY4OLHuQB8LjYGD6smekreeWdDyreLe/ts
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD+" tvg-group="Belgesel",DISCOVERY SCIENCE HD+
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz3uF29PjJ-p30j3GjrEs0Bg4bGsvjwhTqnsExvpvY0n_/ts
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD+" tvg-group="Belgesel",DISCOVERY SCIENCE HD+
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz-kWubl1SEAwTT-3SRrf53GGF0Hw7NpDHKaE5e0UDZz7/ts
+#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-group="Belgesel",DISCOVERY ID
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz5pPjbW4_moEkelF4fgDqf6yhU6PkROH5dKGFae3c7pC/ts
+#EXTINF:-1 tvg-name="DISCOVERY IDX HD" tvg-group="Belgesel",DISCOVERY IDX HD
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qzxA1kzkwm-u8bzDIcZMT6Nx2O8UZSaCrY0WwJC93xHdx/ts
+#EXTINF:-1 tvg-name="ViASAT HiSTORY HD+" tvg-group="Belgesel",ViASAT HiSTORY HD+
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz-xLcxoz7SzDazaXbDZzK0o1zzavVF4mMVp_ZoYMkJOT/ts
+#EXTINF:-1 tvg-name="ViASAT HiSTORY HD" tvg-group="Belgesel",ViASAT HiSTORY HD
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz1psWRUa3hxpSBz6E8HJUrm0zqEMObopbQHaEnBfYz8x/ts
+#EXTINF:-1 tvg-name="History HD" tvg-group="Belgesel",History HD
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz15FmrUWqFHWnKXp-LpHcxCdauKJDhnu0s_XYISR9OZ0/ts
+#EXTINF:-1 tvg-name="YABAN TV HD" tvg-group="Belgesel",YABAN TV HD
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz759pitxU3ki79l67amJRk6aSqcxRXot3CGcNRztAu4f/ts
+#EXTINF:-1 tvg-name="DOCUBOX HD+" tvg-group="Belgesel",DOCUBOX HD+
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz4wq5HEFbm1a2yBI6z7HMXk8Rysp-j7Y4BTb7V_E3_R1/ts
+#EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-group="Belgesel",TGRT BELGESEL
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qzzu8DYU6gdJF3Pp2zIzhGuhQXDMG1sdt8JWbUQXmPYzW/ts
+#EXTINF:-1 tvg-name="LOVE NATURE HD" tvg-group="Belgesel",LOVE NATURE HD
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz0_RxlWY3DniK0CYS4ay7XApxui54RB44H984GnxX9p8/ts
+#EXTINF:-1 tvg-name="LOVE NATURE HD+" tvg-group="Belgesel",LOVE NATURE HD+
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz6Zn0I3VbOoGFeyMzE99kj9YF8mbtqsWj53P9CNQ3eV2/ts
+#EXTINF:-1 tvg-name="National Geographic HD+" tvg-group="Belgesel",National Geographic HD+
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz5q_Fz6ZPmDj1onbCMcEfvgPgOSX5bS6tcQ-P48Jyl0P/ts
+#EXTINF:-1 tvg-name="National Geographic HD" tvg-group="Belgesel",National Geographic HD
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz5I_CW0CMsnvhlyVnudbMbMlDiz7CKO-aG4rdWtstjaf/ts
+#EXTINF:-1 tvg-name="NAT GEO WILD HD+" tvg-group="Belgesel",NAT GEO WILD HD+
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz4E2zMA3jVpi-NxSbJY-yDHJOGI4DWZUMrQWL1KLvoNW/ts
+#EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-group="Belgesel",Nat Geo Wild HD
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qzw3Biycgqy4tUhs4_pnnfgInZXQZzX5twVStKqMiPbZo/ts
+#EXTINF:-1 tvg-name="TRT BELGESEL HD+" tvg-group="Belgesel",TRT BELGESEL HD+
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz0UBwRu19yItcyeKxphXYAM94UyFjiR1VuiZFf6yLk8d/ts
+#EXTINF:-1 tvg-name="TRT Belgesel HD" tvg-group="Belgesel",TRT Belgesel HD
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qzwLMiFc4UHs04r1Y21LfS47uNYTRgjbeG4TEyRpcbIWk/ts
+#EXTINF:-1 tvg-name="DMAX HD" tvg-group="Belgesel",DMAX HD
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz_1Rhxgf-YxiVqWrPCqW9SQmeit9mW3xG2oAAh_xpzxf/ts
+#EXTINF:-1 tvg-name="DMAX HD+" tvg-group="Belgesel",DMAX HD+
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz0dS-dGp9SKDIazrqcvEoOnSMrt56DIsVR2SwxX730-9/ts
+#EXTINF:-1 tvg-name="OUTDOOR HD+" tvg-group="Belgesel",OUTDOOR HD+
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qzx4Y18do_R0gsy_v8JxlEJJOilt4kbygk4pbIS8zdhN_/ts
+#EXTINF:-1 tvg-name="TARIM TV" tvg-group="Belgesel",TARIM TV
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz3S5CV0-8fGOtoMnR9kLrVJXn066R2Eu7wjsr_mxA64j/ts
+#EXTINF:-1 tvg-name="KOY TV" tvg-group="Belgesel",KOY TV
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qzzDOWBDarTgTVb3uvHw4WIsHW8ioeZbJ5LVL8K9nK8G1/ts
+#EXTINF:-1 tvg-name="VIASAT EXPLORE HD" tvg-group="Belgesel",VIASAT EXPLORE HD
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz57ZVJVOPbhkS-VsbIWM0WyJv8xBRP54Crxbqciu8W-B/ts
+#EXTINF:-1 tvg-name="DOCUAX TECH" tvg-group="Belgesel",DOCUAX TECH
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz0rjGS2zrNJJR4Ljd8LDweFQTFfyEShaUmWGbq4w_u3k/ts
+#EXTINF:-1 tvg-name="DOCUAX SPACE" tvg-group="Belgesel",DOCUAX SPACE
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz4a3My14Hszr3wKLpT4WaDiAAZvVyYd5J5vrp2bi4ewo/ts
+#EXTINF:-1 tvg-name="DOCUAX HISTORY" tvg-group="Belgesel",DOCUAX HISTORY
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz1DdC5qgNcnvYK4wAbSEfWqq8nGYiSj-65oUQ4ClPMQ8/ts
+#EXTINF:-1 tvg-name="DOCUAX WILD" tvg-group="Belgesel",DOCUAX WILD
+http://dadass.site:80/play/ensu-_aqHOHX_4E2WK0qz3IScwhntJtTCMhsDTBwPcSsmGvl2DrLAlXzb7SDSCQf/ts
