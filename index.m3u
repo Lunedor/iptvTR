@@ -337,17 +337,17 @@ http://stream.tvcdn.net/ulusal/star-tv.m3u8
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
 #EXTINF:-1 tvg-name="TV 100" tvg-group="Müzik",TV 100
 http://stream.tvcdn.net/ulusal/tv-100.m3u8
-#EXTINF:-1 tvg-name="TRT Türk" tvg-group="Müzik - Yurt Dışı",TRT Türk
+#EXTINF:-1 tvg-name="TRT Türk" tvg-group="Müzik",TRT Türk
 http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
-#EXTINF:-1 tvg-name="TRT Avaz" tvg-group="Müzik - Yurt Dışı",TRT Avaz
+#EXTINF:-1 tvg-name="TRT Avaz" tvg-group="Müzik",TRT Avaz
 http://stream.tvcdn.net/ulusal-yurt-disi/trt-avaz.m3u8
-#EXTINF:-1 tvg-name="Euro D" tvg-group="Müzik - Yurt Dışı",Euro D
+#EXTINF:-1 tvg-name="Euro D" tvg-group="Müzik",Euro D
 http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
-#EXTINF:-1 tvg-name="TGRT EU" tvg-group="Müzik - Yurt Dışı",TGRT EU
+#EXTINF:-1 tvg-name="TGRT EU" tvg-group="Müzik",TGRT EU
 http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
-#EXTINF:-1 tvg-name="Show Türk" tvg-group="Müzik - Yurt Dışı",Show Türk
+#EXTINF:-1 tvg-name="Show Türk" tvg-group="Müzik",Show Türk
 http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
-#EXTINF:-1 tvg-name="Kanal 7 Avrupa" tvg-group="Müzik - Yurt Dışı",Kanal 7 Avrupa
+#EXTINF:-1 tvg-name="Kanal 7 Avrupa" tvg-group="Müzik",Kanal 7 Avrupa
 http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8
 #EXTINF:-1 tvg-name="TRT Haber" tvg-group="Haber",TRT Haber
 http://stream.tvcdn.net/haber/trt-haber.m3u8
@@ -773,12 +773,6 @@ http://stream.tvcdn.net/yerel/urfa-haber-tv.m3u8
 http://stream.tvcdn.net/yerel/vangolu-tv.m3u8
 #EXTINF:-1 tvg-name="VTV Türk" tvg-group="Yerel",VTV Türk
 http://stream.tvcdn.net/yerel/vtv-turk.m3u8
-#EXTINF:-1 tvg-name="Zalim İstanbul" tvg-group="Dizi-Youtube",Zalim İstanbul
-http://stream.tvcdn.net/dizi-youtube/zalim-istanbul.m3u8
-#EXTINF:-1 tvg-name="Siyah Beyaz Aşk" tvg-group="Dizi-Youtube",Siyah Beyaz Aşk
-http://stream.tvcdn.net/dizi-youtube/siyah-beyaz-ask.m3u8
-#EXTINF:-1 tvg-name="Tatlı İntikam" tvg-group="Dizi-Youtube",Tatlı İntikam
-http://stream.tvcdn.net/dizi-youtube/tatli-intikam.m3u8
 #EXTINF:-1 tvg-name="Akademik Bakış" tvg-group="Diğer",Akademik Bakış
 http://stream.tvcdn.net/diger/akademik-bakis.m3u8
 #EXTINF:-1 tvg-name="Can TV" tvg-group="Diğer",Can TV
