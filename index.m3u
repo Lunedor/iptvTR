@@ -349,7 +349,7 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:-1 tvg-name="Teve 2" tvg-group="Eğlence",Teve 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
-#EXTINF:-1 tvg-name="360" tvg-group="Haber",360
+#EXTINF:-1 tvg-name="360 TV" tvg-group="Haber",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-name="TV 4" tvg-group="Ulusal",TV 4
