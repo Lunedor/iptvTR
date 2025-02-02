@@ -209,10 +209,10 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cine 1" tvg-group="Eğlence" ,Cine 1
 https://stream.tvcdn.net/diger-eglence/cine-1.m3u8
 
-#EXTINF:-1 tvg-name="Cine1" tvg-group="Ulusal" ,Cine1
+#EXTINF:-1 tvg-name="Cine 1" tvg-group="Eğlence" ,Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Cine5 TV" tvg-group="Eğlence" ,Cine5 TV
+#EXTINF:-1 tvg-name="Cine 5" tvg-group="Eğlence" ,Cine 5
 https://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 
 #EXTINF:-1 tvg-name="CNBC-e" tvg-group="Ulusal" ,CNBC-e
@@ -665,7 +665,7 @@ https://stream.tvcdn.net/dini/kudus-tv.m3u8
 #EXTINF:-1 tvg-name="Kuran-ı Kerim Dersleri" tvg-group="Dini" ,Kuran-ı Kerim Dersleri
 https://stream.tvcdn.net/dini/kuran-i-kerim-dersleri.m3u8
 
-#EXTINF:-1 tvg-name="Kültür Sanat TV" tvg-group="Eğlence" ,Kültür Sanat TV
+#EXTINF:-1 tvg-name="Kültür Sanat TV" tvg-group="Tematik" ,Kültür Sanat TV
 https://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
 
 #EXTINF:-1 tvg-name="Lalegül TV" tvg-group="Ulusal" ,Lalegül TV
@@ -983,7 +983,7 @@ https://stream.tvcdn.net/yerel/super-kanal.m3u8
 #EXTINF:-1 tvg-name="Tarım TV" tvg-group="Belgesel" ,Tarım TV
 https://stream.tvcdn.net/belgesel/tarim-tv.m3u8
 
-#EXTINF:-1 tvg-name="Tarih TV" tvg-group="Eğlence" ,Tarih TV
+#EXTINF:-1 tvg-name="Tarih TV" tvg-group="Belgesel" ,Tarih TV
 https://stream.tvcdn.net/eglence/tarih-tv.m3u8
 
 #EXTINF:-1 tvg-name="Taş TV" tvg-group="Yerel" ,Taş TV
@@ -1274,7 +1274,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b
 #EXTINF:-1 tvg-name="Viasat History" tvg-group="Belgesel" ,Viasat History
 https://tv.prectv5.sbs/live/viasatexplore.m3u8
 
-#EXTINF:-1 tvg-name="Viyana TV" tvg-group="Eğlence" ,Viyana TV
+#EXTINF:-1 tvg-name="Viyana TV" tvg-group="Avrupa" ,Viyana TV
 https://stream.tvcdn.net/diger-eglence/viyana-tv.m3u8
 
 #EXTINF:-1 tvg-name="VRT TV" tvg-group="Eğlence" ,VRT TV
@@ -1283,10 +1283,10 @@ https://stream.tvcdn.net/diger-eglence/vrt-tv.m3u8
 #EXTINF:-1 tvg-name="VTV Türk" tvg-group="Yerel" ,VTV Türk
 https://stream.tvcdn.net/yerel/vtv-turk.m3u8
 
-#EXTINF:-1 tvg-name="Woman TV" tvg-group="Eğlence" ,Woman TV
+#EXTINF:-1 tvg-name="Woman TV" tvg-group="Kadın & Yaşam & Moda" ,Woman TV
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 
-#EXTINF:-1 tvg-name="Woman TV" tvg-group="Eğlence" ,Woman TV
+#EXTINF:-1 tvg-name="Woman TV" tvg-group="Kadın & Yaşam & Moda" ,Woman TV
 https://stream.tvcdn.net/diger/woman-tv.m3u8
 
 #EXTINF:-1 tvg-name="World Plus TV" tvg-group="Tematik" ,World Plus TV
