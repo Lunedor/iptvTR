@@ -761,22 +761,22 @@ https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-group="Ulusal" ,NTV
 https://stream.tvcdn.net/haber/ntv.m3u8
 
-#EXTINF:-1 tvg-name="Number 1 Aşk" tvg-group="Müzik" ,Number 1 Aşk
+#EXTINF:-1 tvg-name="NumberOne Aşk" tvg-group="Müzik" ,NumberOne Aşk
 https://stream.tvcdn.net/muzik/number-1-ask.m3u8
 
-#EXTINF:-1 tvg-name="Number 1 Damar" tvg-group="Müzik" ,Number 1 Damar
+#EXTINF:-1 tvg-name="NumberOne Damar" tvg-group="Müzik" ,NumberOne Damar
 https://stream.tvcdn.net/muzik/number-1-damar.m3u8
 
-#EXTINF:-1 tvg-name="Number 1 Dance" tvg-group="Müzik" ,Number 1 Dance
+#EXTINF:-1 tvg-name="NumberOne Dance" tvg-group="Müzik" ,NumberOne Dance
 https://stream.tvcdn.net/muzik/number-1-dance.m3u8
 
-#EXTINF:-1 tvg-name="Number 1 TV" tvg-group="Müzik" ,Number 1 TV
+#EXTINF:-1 tvg-name="NumberOne TV" tvg-group="Müzik" ,NumberOne TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Number One Türk" tvg-group="Müzik" ,Number One Türk
+#EXTINF:-1 tvg-name="NumberOne Türk" tvg-group="Müzik" ,NumberOne Türk
 https://stream.tvcdn.net/muzik/number-one-turk.m3u8
 
-#EXTINF:-1 tvg-name="Number One TV" tvg-group="Müzik" ,Number One TV
+#EXTINF:-1 tvg-name="NumberOne TV" tvg-group="Müzik" ,NumberOne TV
 https://stream.tvcdn.net/muzik/number-one-tv.m3u8
 
 #EXTINF:-1 tvg-name="NumberOne Aşk" tvg-group="Müzik" ,NumberOne Aşk
