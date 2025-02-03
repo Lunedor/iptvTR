@@ -155,7 +155,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1738547516/ei/3
 #EXTINF:-1 tvg-id="BelemTürkTV" tvg-name="Belem Türk TV" tvg-group="Yerel" group-title="Yerel" tvg-logo="https://assets.tvcdn.net/82ea9645-e22d-4968-a544-659ca6b88eb8.png" ,Belem Türk TV
 https://stream.tvcdn.net/yerel/belem-turk-tv.m3u8
 
-#EXTINF:-1 tvg-id="BelgeselTV" tvg-name="Belgesel TV" tvg-group="Eğlence" group-title="Eğlence" tvg-logo="https://assets.tvcdn.net/6982e864-f429-4e6e-b3ba-d064ae84ff13.png" ,Belgesel TV
+#EXTINF:-1 tvg-id="Vav TV" tvg-name="Vav TV" tvg-group="Dini" group-title="Dini" tvg-logo="" ,Vav TV
 https://stream.tvcdn.net/eglence/belgesel-tv.m3u8
 
 #EXTINF:-1 tvg-id="BengüTürkTV" tvg-name="Bengü Türk TV" tvg-group="Haber" group-title="Haber" ,Bengü Türk TV
