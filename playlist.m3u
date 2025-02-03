@@ -227,7 +227,6 @@ https://stream.tvcdn.net/diger-eglence/cine-1.m3u8
 #EXTINF:-1 tvg-id="Cine1" tvg-name="Cine 1" tvg-group="Eğlence" group-title="Eğlence" ,Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="Cine5" tvg-name="Cine5" tvg-group="Eğlence" group-title="Eğlence" tvg-logo="https://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" ,Cine5
 https://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 
