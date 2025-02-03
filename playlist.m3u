@@ -135,7 +135,16 @@ https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true
 https://due.7cbd07151f7a2d82.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTS1" tvg-name="beIN SPORTS 1" tvg-group="Spor" group-title="Spor" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" ,beIN SPORTS 1
-https://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
+http://bd33.xyz:80/BAP6MJG/TQRZ058/39559
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
+https://a0.b4c8d3e9f1a2b7c5d41.cfd/yayininat.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
+http://89.33.14.206:80/live/play/YnpJemJqWlRka1ZwVFZrNWRHVmhSV05DUkUxM2NVWlljQzgyVTFkQ1JURmhjblJYWm5oNWVVSm5PRDA9/3033
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
+http://188.214.27.91:80/live/play/T0RBMGFIQTJXbXhtTkZsTlEyWnNPWEJyT0RKME56UmhjMk5EUTA5b05HeG1TR1JwU1dsSlZUZ3ZhejA9/35701
 
 #EXTINF:-1 tvg-id="beINSPORTSHaber" tvg-name="beIN SPORTS Haber" tvg-group="Spor" group-title="Spor" ,beIN SPORTS Haber
 https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
