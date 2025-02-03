@@ -1767,10 +1767,10 @@ https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/eurostar.m3u8
 #EXTINF:-1 tvg-id="EzoTV" tvg-name="Ezo TV" tvg-group="Müzik" group-title="Müzik" tvg-logo="https://assets.tvcdn.net/5b807bfa-5808-4af2-8a4b-4212e6d3d132.png" ,Ezo TV
 https://stream.tvcdn.net/diger-muzik/ezo-tv.m3u8
 
-#EXTINF:-1 tvg-id="FashionFilm" tvg-name="Fashion Film" tvg-group="Kadın & Yaşam & Moda" group-title="Kadın & Yaşam & Moda" ,Fashion Film
+#EXTINF:-1 tvg-id="FashionFilm" tvg-name="Fashion Film" tvg-group="Kadın & Yaşam & Moda" group-title="Kadın & Yaşam & Moda" tvg-logo="http://platinumxmedia.xyz:8080/images/49a709e3d0ced8b1a6a0f5091cf6e231.png" ,Fashion Film
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FashionOne" tvg-name="Fashion One" tvg-group="Kadın & Yaşam & Moda" group-title="Kadın & Yaşam & Moda" ,Fashion One
+#EXTINF:-1 tvg-id="FashionOne" tvg-name="Fashion One" tvg-group="Kadın & Yaşam & Moda" group-title="Kadın & Yaşam & Moda" tvg-logo="http://platinumxmedia.xyz:8080/images/49a709e3d0ced8b1a6a0f5091cf6e231.png",Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-group="Kadın & Yaşam & Moda" group-title="Kadın & Yaşam & Moda" ,Fashion TV
@@ -2760,62 +2760,61 @@ https://stream.tvcdn.net/diger-muzik/zeyno.m3u8
 #EXTINF:-1 tvg-id="ZiraatTürkiyeKupasıTV" tvg-name="Ziraat Türkiye Kupası TV" tvg-group="Spor" group-title="Spor" tvg-logo="https://assets.tvcdn.net/6f73f66b-d2d3-451d-9f56-5d1b27172abc.png" ,Ziraat Türkiye Kupası TV
 https://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
 
-#EXTINF:-1 tvg-name="TRT Belgesel"tvg-id="Belgesel_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png"group-title="Belgesel":http-referrer="":http-user-agent="",TRT Belgesel
+#EXTINF:-1 tvg-name="TRT Belgesel" tvg-id="Belgesel_TRT" tvg-group="Belgesel" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png" group-title="Belgesel":http-referrer="":http-user-agent="",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="TLC"tvg-id="Belgesel_TLC"tvg-logo="https://img-tlctv.mncdn.com/logo.png"group-title="Belgesel":http-referrer="":http-user-agent="",TLC
+#EXTINF:-1 tvg-name="TLC" tvg-id="Belgesel_TLC" tvg-group="Belgesel" tvg-logo="https://img-tlctv.mncdn.com/logo.png" group-title="Belgesel":http-referrer="":http-user-agent="",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 
-#EXTINF:-1 tvg-name="DMax"tvg-id="Belgesel_DMax"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6"group-title="Belgesel":http-referrer="":http-user-agent="",DMax
+#EXTINF:-1 tvg-name="DMax" tvg-id="Belgesel_DMax" tvg-group="Belgesel" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6"group-title="Belgesel":http-referrer="":http-user-agent="",DMax
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
-#EXTINF:-1 tvg-name="TGRT Belgesel"tvg-id="24.tr"tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png"group-title="Belgesel":http-referrer="":http-user-agent="",TGRT Belgesel
+#EXTINF:-1 tvg-name="TGRT Belgesel" tvg-group="Belgesel" tvg-id="24.tr" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png"group-title="Belgesel":http-referrer="":http-user-agent="",TGRT Belgesel
 https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Nat Geo HD TR"tvg-id="" tvg-logo=""group-title="Belgesel":http-referrer="":http-user-agent="",Nat Geo
+#EXTINF:-1 tvg-name="Nat Geo" tvg-id="NatGeo" tvg-group="Belgesel" tvg-logo="" group-title="Belgesel":http-referrer="":http-user-agent="",Nat Geo
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432433
 
-#EXTINF:-1 tvg-name="Nat Geo Wild"tvg-id="natgeowild.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ--wfW2_Q5bKwwwdDO2MA5f5MLd7mGhAoFvw&s"group-title="Belgesel":http-referrer="":http-user-agent="",Nat Geo Wild
+#EXTINF:-1 tvg-name="Nat Geo Wild"tvg-id="natgeowild.tr" tvg-group="Belgesel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ--wfW2_Q5bKwwwdDO2MA5f5MLd7mGhAoFvw&s"group-title="Belgesel":http-referrer="":http-user-agent="",Nat Geo Wild
 https://tv.prectv5.sbs/live/natgeowild.m3u8
 
-#EXTINF:-1 tvg-name="History Channel "tvg-id="viasathistory.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg"group-title="Belgesel":http-referrer="":http-user-agent="",History Channel
+#EXTINF:-1 tvg-name="History Channel" tvg-group="Belgesel" tvg-id="viasathistory.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg"group-title="Belgesel":http-referrer="":http-user-agent="",History Channel
 https://tv.prectv5.sbs/live/history.m3u8
 
-#EXTINF:-1 tvg-name="Viasat History "tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzh-5cvBD8vZPDAKOXUu0Vm9prOACcibyMFw&s"group-title="Belgesel":http-referrer="":http-user-agent="",Viasat History
+#EXTINF:-1 tvg-name="Viasat History" tvg-group="Belgesel" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzh-5cvBD8vZPDAKOXUu0Vm9prOACcibyMFw&s"group-title="Belgesel":http-referrer="":http-user-agent="",Viasat History
 https://tv.prectv5.sbs/live/viasatexplore.m3u8
 
-#EXTINF:-1 tvg-name="BBC Earth"tvg-id="bbcearth.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s"group-title="Belgesel":http-referrer="":http-user-agent="",BBC Earth
+#EXTINF:-1 tvg-name="BBC Earth" tvg-group="Belgesel" tvg-id="bbcearth.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s"group-title="Belgesel":http-referrer="":http-user-agent="",BBC Earth
 https://tv.prectv5.sbs/live/bbc.m3u8
 
-#EXTINF:-1 tvg-name="beIN Gurme"tvg-id="beingurme" tvg-logo="http://platinumxmedia.xyz:8080/images/17a24177c9d3b9f82eb8fc9d6e968123.png"group-title="Kadın & Yaşam & Moda":http-referrer="":http-user-agent="",beIN Gurme
+#EXTINF:-1 tvg-name="beIN Gurme"tvg-id="beingurme" tvg-group="Kadın & Yaşam & Moda" tvg-logo="http://platinumxmedia.xyz:8080/images/17a24177c9d3b9f82eb8fc9d6e968123.png" group-title="Kadın & Yaşam & Moda":http-referrer="":http-user-agent="",beIN Gurme
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432169
 
-#EXTINF:-1 tvg-name="Bein Iz"tvg-id="beiniz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB16OQGYHvmbbeR7ojxAn2dBMRRG6YnMt0ww&s"group-title="Belgesel":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Bein Iz
+#EXTINF:-1 tvg-name="Bein Iz" tvg-id="beiniz"  tvg-group="Belgesel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB16OQGYHvmbbeR7ojxAn2dBMRRG6YnMt0ww&s"group-title="Belgesel":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Bein Iz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-
 https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true
-#EXTINF:-1 tvg-name="Animal Planet"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/b73b36a238c8cf4de7a681241773d20c.png"group-title="Belgesel":http-referrer="":http-user-agent="",Animal Planet
+
+#EXTINF:-1 tvg-name="Animal Planet" tvg-group="Belgesel" tvg-id="animalplanet" tvg-logo="http://platinumxmedia.xyz:8080/images/b73b36a238c8cf4de7a681241773d20c.png"group-title="Belgesel":http-referrer="":http-user-agent="",Animal Planet
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432152
 
-#EXTINF:-1 tvg-name="Da Vinci Learning"tvg-id="DaVinciLearning" tvg-logo="http://platinumxmedia.xyz:8080/images/e41840efb76abde867f0b2e3b8c55bd4.png"group-title="Belgesel":http-referrer="":http-user-agent="",Da Vinci Learning
+#EXTINF:-1 tvg-name="Da Vinci Learning" tvg-group="Belgesel" tvg-id="DaVinciLearning" tvg-logo="http://platinumxmedia.xyz:8080/images/e41840efb76abde867f0b2e3b8c55bd4.png"group-title="Belgesel":http-referrer="":http-user-agent="",Da Vinci Learning
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432228
 
-#EXTINF:-1 tvg-name="Discovery Channel"tvg-id="DiscoveryChannel" tvg-logo="http://platinumxmedia.xyz:8080/images/813513ce030768aab17b38d54a047587.png"group-title="Belgesel":http-referrer="":http-user-agent="",Discovery Channel
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-group="Belgesel" tvg-id="DiscoveryChannel" tvg-logo="http://platinumxmedia.xyz:8080/images/813513ce030768aab17b38d54a047587.png"group-title="Belgesel":http-referrer="":http-user-agent="",Discovery Channel
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432233
 
-#EXTINF:-1 tvg-name="Discovery ID"tvg-id="DiscoveryID" tvg-logo="http://platinumxmedia.xyz:8080/images/c252334e2e045ea52295de41cbefa2b7.png"group-title="Belgesel":http-referrer="":http-user-agent="",Discovery ID
+#EXTINF:-1 tvg-name="Discovery ID" tvg-group="Belgesel" tvg-id="DiscoveryID" tvg-logo="http://platinumxmedia.xyz:8080/images/c252334e2e045ea52295de41cbefa2b7.png"group-title="Belgesel":http-referrer="":http-user-agent="",Discovery ID
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432234
 
-#EXTINF:-1 tvg-name="DocuBox"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/afdf2898c0d833e0a26f3f063b2abcbf.png"group-title="Belgesel":http-referrer="":http-user-agent="",DocuBox
+#EXTINF:-1 tvg-name="DocuBox" tvg-group="Belgesel" tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/afdf2898c0d833e0a26f3f063b2abcbf.png"group-title="Belgesel":http-referrer="":http-user-agent="",DocuBox
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432246
 
-#EXTINF:-1 tvg-name="Fashion Midnight"tvg-id="FashionMidnight" tvg-logo="http://platinumxmedia.xyz:8080/images/49a709e3d0ced8b1a6a0f5091cf6e231.png"group-title="Kadın & Yaşam & Moda":http-referrer="":http-user-agent="",Fashion Midnight
+#EXTINF:-1 tvg-name="Fashion Midnight" tvg-group="Kadın & Yaşam & Moda" tvg-id="FashionMidnight" tvg-logo="http://platinumxmedia.xyz:8080/images/49a709e3d0ced8b1a6a0f5091cf6e231.png" group-title="Kadın & Yaşam & Moda":http-referrer="":http-user-agent="",Fashion Midnight
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432307
 
-#EXTINF:-1 tvg-name="Fashion TV"tvg-id="FashionTV" tvg-logo="http://platinumxmedia.xyz:8080/images/49a709e3d0ced8b1a6a0f5091cf6e231.png"group-title="Kadın & Yaşam & Moda":http-referrer="":http-user-agent="",Fashion TV
+#EXTINF:-1 tvg-name="Fashion TV" tvg-group="Kadın & Yaşam & Moda" tvg-id="FashionTV" tvg-logo="http://platinumxmedia.xyz:8080/images/49a709e3d0ced8b1a6a0f5091cf6e231.png" group-title="Kadın & Yaşam & Moda":http-referrer="":http-user-agent="",Fashion TV
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432308
 
-#EXTINF:-1 tvg-name="Love Nature"tvg-id="LoveNature" tvg-logo="http://platinumxmedia.xyz:8080/images/32167cf1f862054f6c6c323d38a1f2f2.png"group-title="Belgesel":http-referrer="":http-user-agent="",Love Nature
+#EXTINF:-1 tvg-name="Love Nature" tvg-group="Belgesel" tvg-id="LoveNature" tvg-logo="http://platinumxmedia.xyz:8080/images/32167cf1f862054f6c6c323d38a1f2f2.png" group-title="Belgesel":http-referrer="":http-user-agent="",Love Nature
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432398
-
