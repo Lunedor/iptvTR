@@ -126,10 +126,10 @@ https://stream.tvcdn.net/yerel/bartin-tv.m3u8
 https://tv.prectv5.sbs/live/bbc.m3u8
 
 #EXTINF:-1 tvg-id="beINGurme" tvg-name="beIN Gurme" tvg-group="Belgesel" group-title="Belgesel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5cNYZVAdRs29MJ-bRTjFryT4lH50rP7WVHtGRYgzpE7Zy9P4TrS6dihk&s=10" ,beIN Gurme
-https://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432169
+https://joaquinito02.es/vavoo/3617035414.m3u8
 
-#EXTINF:-1 tvg-id="beINİZ" tvg-name="beIN İZ" tvg-group="Belgesel" group-title="Belgesel" ,beIN İZ
-https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="beINİZ" tvg-name="beIN İZ" tvg-group="Belgesel" group-title="Belgesel" tvg-logo="https://seeklogo.com/images/B/bein-iz-logo-A358CCCC26-seeklogo.com.png",beIN İZ
+https://joaquinito02.es/vavoo/1691223078.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTS1" tvg-name="beIN SPORTS 1" tvg-group="Spor" group-title="Spor" tvg-logo="https://i.hizliresim.com/5j967nr.png" ,beIN SPORTS 1
 https://sette.4614f151a0efc1c2ee.click/i/sinetech.tr/601/playlist.m3u8
@@ -761,6 +761,9 @@ https://joaquinito02.es/vavoo/1845660630.m3u8
 
 #EXTINF:-1 tvg-id="NatGeoWild" tvg-name="Nat Geo Wild" tvg-group="Belgesel" group-title="Belgesel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ--wfW2_Q5bKwwwdDO2MA5f5MLd7mGhAoFvw&s" ,Nat Geo Wild
 https://tv.prectv5.sbs/live/natgeowild.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel" tvg-group="Belgesel" group-title="Belgesel" tvg-logo="https://logodix.com/logo/997920.png",Discovery Channel
+https://joaquinito02.es/vavoo/1013220447.m3u8
 
 #EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" tvg-group="Spor" group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" ,NBA TV
 https://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432435
