@@ -6205,7 +6205,7 @@ https://vavoo.to/play/1584335383/index.m3u8
 #KODIPROP:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1952835738/index.m3u8
 
-#EXTINF:-1 tvg-id="YEŞİLÇAM2" tvg-name="YEŞİLÇAM 2" tvg-group="sinema & Dizi" group-title="sinema & Dizi",YEŞİLÇAM 2
+#EXTINF:-1 tvg-id="YEŞİLÇAM2" tvg-name="YEŞİLÇAM 2" tvg-group="Sinema & Dizi" group-title="Sinema & Dizi",YEŞİLÇAM 2
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #KODIPROP:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/868586058/index.m3u8
