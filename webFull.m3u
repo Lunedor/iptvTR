@@ -754,7 +754,7 @@ https://stream.tvcdn.net/dini/mukabele-tv.m3u8
 https://stream.tvcdn.net/muzik/muzik-tv.m3u8
 
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="Nat Geo" tvg-group="Belgesel" group-title="Belgesel" ,Nat Geo
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432433
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=481296&extension=ts
 
 #EXTINF:-1 tvg-id="NatGeoWild" tvg-name="Nat Geo Wild" tvg-group="Belgesel" group-title="Belgesel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ--wfW2_Q5bKwwwdDO2MA5f5MLd7mGhAoFvw&s" ,Nat Geo Wild
 https://tv.prectv5.sbs/live/natgeowild.m3u8
