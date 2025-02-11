@@ -1,8 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="24" tvg-name="24" tvg-group="Haber" tvg-logo="https://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" group-title="Haber" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/" ,24
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#KODIPROP:http-user-agent=VAVOO/1.0
+#EXTINF:-1 tvg-id="24" tvg-name="24" tvg-group="Haber" tvg-logo="https://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" group-title="Haber",24
 https://vavoo.to/play/1702937932/index.m3u8
 
 #EXTINF:-1 tvg-id="24" tvg-name="24" tvg-group="Haber" tvg-logo="https://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" group-title="Haber" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/" ,24
