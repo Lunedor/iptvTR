@@ -182,6 +182,9 @@ https://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 #EXTINF:-1 tvg-id="BizimOcakTV" tvg-name="Bizim Ocak TV" tvg-group="Yerel" group-title="Yerel" ,Bizim Ocak TV
 https://stream.tvcdn.net/yerel/bizim-ocak-tv.m3u8
 
+#EXTINF:-1 tvg-id="BizimEvTV" tvg-name="Bizim Ev TV" tvg-group="Belgesel" group-title="Belgesel" tvg-logo="https://pbs.twimg.com/profile_images/941723420798128129/MEtwtFpg_400x400.jpg",Bizim Ev TV
+http://f9ohqcqv.megogo.xyz/iptv/E4XLXZWBES7MLN/31151/index.m3u8
+
 #EXTINF:-1 tvg-id="BloombergHT" tvg-name="Bloomberg HT" tvg-group="Ekonomi" group-title="Ekonomi" tvg-logo="https://play-lh.googleusercontent.com/byyHq1uwkzFuB42rm9LDzVZhYr-jyW4KSubjUWtCKxi-C09JjNm7csXuFsTxOJ5_Eygk" ,Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
