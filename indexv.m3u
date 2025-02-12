@@ -531,7 +531,7 @@ https://vavoo.to/play/1456482631/index.m3u8
 https://vavoo.to/play/991733892/index.m3u8
 #EXTINF:-1 tvg-id="CHASSE&PECHE" tvg-name="CHASSE & PECHE" tvg-group="Belgesel" group-title="Belgesel",CHASSE & PECHE
 https://vavoo.to/play/3033383137/index.m3u8
-#EXTINF:-1 tvg-id="CHASSEETPECHE" tvg-name="CHASSE ET PECHE" tvg-group="Belgesel" group-title="Belgesel",CHASSE ET PECHE
+#EXTINF:-1 tvg-id="CHASSE&PECHE" tvg-name="CHASSE & PECHE" tvg-group="Belgesel" group-title="Belgesel",CHASSE & PECHE
 https://vavoo.to/play/147576390/index.m3u8
 #EXTINF:-1 tvg-id="CHICKY" tvg-name="CHICKY" tvg-group="Çocuk" group-title="Çocuk",CHICKY
 https://vavoo.to/play/940839479/index.m3u8
