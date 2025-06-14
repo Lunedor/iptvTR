@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/l8b1d3t.jpeg" group-title="////////// 𝐵𝐼̇𝐿𝐺𝐼̇𝐿𝐸𝑁𝐷𝐼̇𝑅𝑀𝐸 \\\\\\\\\\",BETCONNECT BİLGİLENDİRME !!!!
+https://live-cdn-65984.varplaycdn.cfd/betconnectbilgilendirme/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/TRT_4K.svg" group-title="TR:Ulusal",TRT 4K
+https://live-cdn-65984.varplaycdn.cfd/trt4k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="TR:Ulusal",TRT 1 HD
+https://live-cdn-65984.varplaycdn.cfd/trt1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/930px-Atv_logo_2010.svg.png" group-title="TR:Ulusal",ATV HD
+https://live-cdn-65984.varplaycdn.cfd/atv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logo_KanalD.svg/2110px-Logo_KanalD.svg.png" group-title="TR:Ulusal",KANAL D HD
+https://live-cdn-65984.varplaycdn.cfd/kanald/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/1200px-Show_TV_logo.svg.png" group-title="TR:Ulusal",SHOW TV HD
+https://live-cdn-65984.varplaycdn.cfd/showtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/2048px-Show_MAX_logo.svg.png" group-title="TR:Ulusal",SHOW MAX HD
+https://live-cdn-65984.varplaycdn.cfd/showmax/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Star_TV_%282011_Turkey%29.svg/revision/latest/scale-to-width-down/200?cb=20220406065638" group-title="TR:Ulusal",STAR TV HD
+https://live-cdn-65984.varplaycdn.cfd/startv/index.m3u8
+#EXTINF:-1 tvg-logo="https://izmottvsc13.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20170714/001300/XTV100000291/f57866cb-de7e-4586-ae71-d44605b6c518.png" group-title="TR:Ulusal",A2 HD
+https://live-cdn-65984.varplaycdn.cfd/a2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1280px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="TR:Ulusal",NOW HD
+https://live-cdn-65984.varplaycdn.cfd/nowtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="TR:Ulusal",TV8 HD
+https://live-cdn-65984.varplaycdn.cfd/tv8/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.bravaspor.com/site/o/105638/2022/12/14678289144e62ee6635ca9419908df6.png" group-title="TR:Ulusal",TV8,5 HD
+https://live-cdn-65984.varplaycdn.cfd/tv85/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Beyaz-TV.png" group-title="TR:Ulusal",BEYAZ TV HD
+https://live-cdn-65984.varplaycdn.cfd/beyaztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TR:Ulusal",360 HD
+https://live-cdn-65984.varplaycdn.cfd/360/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/1200px-NTV_%28Turkey%29_logo.svg.png" group-title="TR:Haber",NTV HD
+https://live-cdn-65984.varplaycdn.cfd/ntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%C3%9Clke_TV_logo.svg/2560px-%C3%9Clke_TV_logo.svg.png" group-title="TR:Haber",ÜLKE TV HD
+https://live-cdn-65984.varplaycdn.cfd/ulke/index.m3u8
+#EXTINF:-1 tvg-logo="https://gbzottvsc29.tvplus.com.tr:33207/CPS/images/universal/film/poster/20141015/001300/001300000008479090/2bc3b2ae-9d09-4380-bc32-3e6affca7626.png" group-title="TR:Haber",CNN TURK HD
+https://live-cdn-65984.varplaycdn.cfd/cnnturk/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="TR:Haber",A HABER HD
+https://live-cdn-65984.varplaycdn.cfd/ahaber/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="TR:Haber",SÖZCÜ TV HD
+https://live-cdn-65984.varplaycdn.cfd/sozcu/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png" group-title="TR:Haber",TRT HABER HD
+https://live-cdn-65984.varplaycdn.cfd/trthaber/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="TR:Haber",TGRT HABER HD
+https://live-cdn-65984.varplaycdn.cfd/tgrthaber/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Habert%C3%BCrk_TV_logo.svg/1200px-Habert%C3%BCrk_TV_logo.svg.png" group-title="TR:Haber",HABERTÜRK HD
+https://live-cdn-65984.varplaycdn.cfd/haberturk/index.m3u8
+#EXTINF:-1 tvg-logo="https://izmottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/52/2116555980605eb9542c_op_0_XL.webp" group-title="TR:Haber",EKOTÜRK HD
+https://live-cdn-65984.varplaycdn.cfd/ekoturk/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="TR:Haber",HALK TV HD
+https://live-cdn-65984.varplaycdn.cfd/halktv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="TR:Haber",TELE 1 HD
+https://live-cdn-65984.varplaycdn.cfd/tele1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1024px-TRT_Spor_logo_%282022%29.svg.png" group-title="TR:Spor",TRT SPOR HD
+https://live-cdn-65984.varplaycdn.cfd/trtspor/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg" group-title="TR:Spor",TRT SPOR YILDIZ HD
+https://live-cdn-65984.varplaycdn.cfd/trtspor2/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="TR:Spor",A SPOR HD
+https://live-cdn-65984.varplaycdn.cfd/aspor/index.m3u8
+#EXTINF:-1 tvg-logo="https://izmottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202408/20240823/7/0822287635005eb8f42a_op_0_XL.png" group-title="TR:Spor",HT SPOR HD
+https://live-cdn-65984.varplaycdn.cfd/htspor/index.m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bc458b63-fe9e-40c2-b8a3-d56dc7189e0a.png" group-title="TR:Spor",BeIN Sports Haber HD
+https://live-cdn-65984.varplaycdn.cfd/beinsportshaber/index.m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f0f167c1-f2b1-41d0-9713-75c315820713.png" group-title="TR:Spor",S Sport HD
+https://live-cdn-65984.varplaycdn.cfd/607/index.m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80f415bc-60e4-4dd9-8dc6-6e51d88f6abb.png" group-title="TR:Spor",S Sport 2 HD
+https://live-cdn-65984.varplaycdn.cfd/608/index.m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/54cad412-5f3a-4184-b5fc-d567a5de7160.png" group-title="TR:Spor",Eurosport 1 HD
+https://live-cdn-65984.varplaycdn.cfd/eurosport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a4cbdd15-1509-408f-a108-65b8f88f2066.png" group-title="TR:Spor",Eurosport 2 HD
+https://live-cdn-65984.varplaycdn.cfd/eurosport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1af109dc-4dc7-4185-981b-ccc6f8d45e83.png" group-title="TR:Spor",NBA HD
+https://live-cdn-65984.varplaycdn.cfd/nbatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305" group-title="TR:Spor",BeIN Sports 1 HD
+https://live-cdn-65984.varplaycdn.cfd/601/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_170_122" group-title="TR:Spor",BeIN Sports 2 HD
+https://live-cdn-65984.varplaycdn.cfd/602/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_425_305" group-title="TR:Spor",BeIN Sports 3 HD
+https://live-cdn-65984.varplaycdn.cfd/603/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch644_425_305" group-title="TR:Spor",BeIN Sports 4 HD
+https://live-cdn-65984.varplaycdn.cfd/604/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305" group-title="TR:Spor",BeIN Sports 5 HD
+https://live-cdn-65984.varplaycdn.cfd/605/index.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/CvdMRXjTi.png" group-title="TR:Spor",BeIN Sports Max 1 HD
+https://live-cdn-65984.varplaycdn.cfd/801/index.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/h5LrmICka3SH.png" group-title="TR:Spor",BeIN Sports Max 2 HD
+https://live-cdn-65984.varplaycdn.cfd/802/index.m3u8
+#EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20221230862759.png" group-title="TR:Spor",TİVİBU SPOR HD
+https://live-cdn-65984.varplaycdn.cfd/700/index.m3u8
+#EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20230125889178.png" group-title="TR:Spor",TİVİBU SPOR 1 HD
+https://live-cdn-65984.varplaycdn.cfd/701/index.m3u8
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889043.png" group-title="TR:Spor",TİVİBU SPOR 2 HD
+https://live-cdn-65984.varplaycdn.cfd/702/index.m3u8
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889044.png" group-title="TR:Spor",TİVİBU SPOR 3 HD
+https://live-cdn-65984.varplaycdn.cfd/703/index.m3u8
+#EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20230125888743.png" group-title="TR:Spor",TİVİBU SPOR 4 HD
+https://live-cdn-65984.varplaycdn.cfd/704/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TR:Spor",TABİİ SPOR HD
+https://live-cdn-65984.varplaycdn.cfd/tabii/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TR:Spor",TABİİ SPOR 1 HD
+https://live-cdn-65984.varplaycdn.cfd/tabii1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TR:Spor",TABİİ SPOR 2 HD
+https://live-cdn-65984.varplaycdn.cfd/tabii2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TR:Spor",TABİİ SPOR 3 HD
+https://live-cdn-65984.varplaycdn.cfd/tabii3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TR:Spor",TABİİ SPOR 4 HD
+https://live-cdn-65984.varplaycdn.cfd/tabii4/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TR:Spor",TABİİ SPOR 5 HD
+https://live-cdn-65984.varplaycdn.cfd/tabii5/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TR:Spor",TABİİ SPOR 6 HD
+https://live-cdn-65984.varplaycdn.cfd/tabii6/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png" group-title="TR:Spor",SMART SPOR HD
+https://live-cdn-65984.varplaycdn.cfd/609/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="TR:Spor",SMART SPOR 2 HD
+https://live-cdn-65984.varplaycdn.cfd/610/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo.png" group-title="ENG:Yabancı Spor",ESPN HD
+https://live-cdn-65984.varplaycdn.cfd/espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest?cb=20130819193813" group-title="ENG:Yabancı Spor",ESPN 2 HD
+https://live-cdn-65984.varplaycdn.cfd/espn2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="ENG:Yabancı Spor",TNT HD
+https://live-cdn-65984.varplaycdn.cfd/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/38a2e51a-9f7f-4915-aa88-f78190f59411.png" group-title="TR:Belgesel",NATİONAL GEOGRAPHİC HD
+https://live-cdn-65984.varplaycdn.cfd/natgeo/index.m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4cc38817-6eb0-4f26-ac2b-cb5baa3b68ba.png" group-title="TR:Belgesel",NATİONAL GEOGRAPHİC WİLD HD
+https://live-cdn-65984.varplaycdn.cfd/natgeowild/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" group-title="TR:Belgesel",BeIN İZ HD
+https://live-cdn-65984.varplaycdn.cfd/iz/index.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/4_T8J1t2Rs.png" group-title="TR:Belgesel",BeIN GURME HD
+https://live-cdn-65984.varplaycdn.cfd/gurme/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Tv-channel_%E2%94%82_history.png" group-title="TR:Belgesel",HİSTORY HD
+https://live-cdn-65984.varplaycdn.cfd/history/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viasat_History-logo.svg/1426px-Viasat_History-logo.svg.png" group-title="TR:Belgesel",VİASAT HİSTORY HD
+https://live-cdn-65984.varplaycdn.cfd/viasathistory/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png" group-title="TR:Belgesel",VİASAT EXPLORE HD
+https://live-cdn-65984.varplaycdn.cfd/viasatexplore/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Tarih-tv-logo-siyah-1080x1080.png" group-title="TR:Belgesel",TARİH TV HD
+https://live-cdn-65984.varplaycdn.cfd/tarihtv/index.m3u8
